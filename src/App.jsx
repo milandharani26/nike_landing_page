@@ -1,4 +1,4 @@
-import { Hero, PopulerProduct, SuperQuality, Services, SpecialOffer, Subscribe, Footer, CustomerReview } from "./sections/index"
+import { Hero, PopulerProduct, SuperQuality, Services, SpecialOffer, Subscribe, Footer, CustomerReview,} from "./sections/index"
 
 import Nav from "./componants/Nav"
 
@@ -30,7 +30,6 @@ export default function App() {
       <section className="padding bg-black padding-x padding-t pb-8">
         <Footer />
     </section>
-
     </main>
   )
 }
